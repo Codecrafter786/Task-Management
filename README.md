@@ -2,10 +2,9 @@ A simple Spring Boot-based Task Management Application that allows users to mana
 This project demonstrates CRUD operations (Create, Read, Update, Delete) using Spring Boot, JPA, and MySQL.
 
 
+Features
 
-      Features
-
-. Add a new task
+Add a new task
 
  View all tasks
 
@@ -16,7 +15,7 @@ This project demonstrates CRUD operations (Create, Read, Update, Delete) using S
  Data stored in a relational database (MySQL)
 
 
-      Tech Stack
+Tech Stack
 
 Backend: Spring Boot
 
@@ -28,7 +27,7 @@ Tools: IntelliJ IDEA, Git, GitHub
 
 
  
-        How to Run
+How to Run
 
 Clone the repository
 
@@ -41,7 +40,7 @@ Configure application.properties with your PostgreSQL credentials
 
 Run the application from TaskManagementApplication.java
 
-📬 Author
+ Author
 
 Mohammad Jawwad (Codecrafter786)
 💻 GitHub: @Codecrafter786
